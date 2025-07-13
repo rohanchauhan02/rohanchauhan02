@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Engineer | 🧠 System Architect | ☁️ Cloud-Native Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+%7C+Python+%7C+AWS+%7C+GCP+%7C+Kubernetes+%7C+Scalable+Systems&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+%7C+Python+%7C+AWS+%7C+GCP+%7C+Kubernetes+%7C&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
