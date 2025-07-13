@@ -81,11 +81,11 @@ I’m a **Senior Backend Engineer** with 5+ years of experience designing high-p
 
 ### 💼 Professional Experience
 
-#### 🔹 **Senior Engineer – EPAM Systems**
+#### 🔹 **Senior Engineer – [EPAM Systems](https://www.epam.com/)**
 - Delivering scalable video analytics platforms for enterprise clients (P&G)
 - Managing production-grade infrastructure with **GCP**, **K8s**, **BigQuery**, and **AlloyDB**
 
-#### 🔹 **Software Engineer – Qoala | Aviabird | Hubako**
+#### 🔹 **Software Engineer – [Qoala](https://qoala.com/) | [Aviabird](https://aviabird.com/) | Hubako**
 - Developed insurance automation engines, finance services, and AI chatbots
 - Built end-to-end observability with **Datadog**, **Slack**, **Grafana**, and **Sentry**
 - Created reusable microservices and DevOps-first delivery pipelines
