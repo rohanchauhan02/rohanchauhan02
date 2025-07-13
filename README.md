@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rohan Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Rohan Chauhan</h1>
 <h3 align="center">🚀 Backend Engineer | 🧠 System Architect | ☁️ Cloud-Native Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+%7C+Python+%7C+Kubernetes+%7C+AWS+%7C+GCP+%7C+Scalable+System+Design&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+%7C+Python+%7C+Kubernetes+%7C+AWS+%7C+GCP&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:singhrohankumar7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-singhrohankumar7%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/rohankumarsingh7">
+  <a href="https://linkedin.com/in/rohanchauhan02">
     <img src="https://img.shields.io/badge/LinkedIn-rohankumarsingh7-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
