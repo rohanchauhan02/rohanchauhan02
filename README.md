@@ -73,9 +73,14 @@ I’m a **Senior Backend Engineer** with 5+ years of experience designing high-p
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="40" />
-  <img src="https://img.shields.io/badge/Primary%20Language-Go-blue?style=for-the-badge&logo=go" />
+  <img src="https://skillicons.dev/icons?i=go,python" height="40" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Language-Go-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Favorite%20Tool-Python-yellow?style=for-the-badge&logo=python" />
+</p>
+
 
 ---
 
