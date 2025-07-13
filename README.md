@@ -39,14 +39,14 @@ I’m a **Senior Backend Engineer** with 5+ years of experience designing high-p
 
 ### 🧩 Notable Projects
 
-#### 🛰️ [**Ocuris**](https://github.com/rohanchauhan02)
+#### 🛰️ [**Ocuris**](https://ocuris.io/)
 > Scalable, distributed **workflow orchestration engine**
 
 - Microservices built with **Golang**, **FastAPI**, **LangChain**, and **Elasticsearch**
 - Reduced incident rate by **60%**, achieved latency under **1.2ms**
 - Employed **CQRS**, **event sourcing**, and async job processing at scale
 
-#### ✈️ **89 Transfers (Spain)**
+#### ✈️ [**89 Transfers**](https://89transfers.com/en) **(Spain)**
 > Travel booking engine powering 1000+ daily users
 
 - Infrastructure on **GCP**, **Terraform**, **Cloud Run**, **Pub/Sub**, and **Stripe**
