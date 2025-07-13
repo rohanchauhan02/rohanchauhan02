@@ -1,69 +1,60 @@
-# 👋 Hi, I'm Rohan Kumar Singh
+## 👋 Hi, I'm Rohan Kumar Singh
 
-### 💻 Senior Software Engineer | Backend Architect | Cloud Native Specialist  
-📍 New Delhi, India | ✉️ singhrohankumar7@gmail.com | 🌐 [GitHub](https://github.com/rohanchauhan02)
-
----
-
-I'm an experienced backend engineer with **5+ years** of industry experience building distributed systems, architecting microservices, and delivering cloud-native solutions. I specialize in **Golang**, **Python**, and modern cloud platforms (**GCP**, **AWS**), and I'm passionate about building scalable, performant, and reliable systems.
+🚀 **Senior Backend Engineer** | 💡 Cloud-Native Microservices | ⚙️ Performance Architect | 🇮🇳 New Delhi, India  
+📧 singhrohankumar7@gmail.com • 🔗 [GitHub](https://github.com/rohanchauhan02) • 📞 +91-9205916092  
 
 ---
 
-## 🛠️ Tech Expertise
+### 🧠 About Me
 
-- **Languages:** Go, Python, Node.js, C++, Rust  
-- **Cloud Platforms:** GCP (Cloud Run, Pub/Sub, BigQuery), AWS (EKS, Lambda, S3, RDS)  
-- **Architecture:** Microservices, Event-Driven Systems, CQRS, Pub/Sub, Serverless  
-- **Frameworks:** Echo, FastAPI, GORM, Gin, Chi, SQLC, MERN  
-- **DevOps & Infra:** Docker, Kubernetes, Terraform, GitHub Actions, Datadog, Sentry  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch  
-- **Tools:** OpenTelemetry, LangChain, Prometheus, Grafana, Swagger, Postman  
+I'm a passionate **Software Engineer** with **5+ years of experience** architecting and building scalable, resilient backend systems. From **AI-enabled workflow engines** to **cloud-first video analytics platforms**, I specialize in turning complex problems into elegant, performant solutions.
 
----
-
-## 💼 Professional Experience
-
-### 🔹 Senior Software Engineer @ EPAM Systems (Feb 2025 – Present)
-- Leading the development of a **Video Analytics Platform** for Procter & Gamble using Golang and GCP.
-- Managing team, designing scalable architecture, and ensuring high performance and uptime.
-
-### 🔹 Senior Software Engineer @ Qoala (Jul 2022 – Feb 2025)
-- Built and maintained 10+ microservices including a **dynamic rule engine**, **workflow orchestrator**, and **unified finance system**.
-- Enhanced system reliability and developer efficiency through better observability and CI/CD practices.
-
-### 🔹 SDE II @ Aviabird (Dec 2021 – Jun 2022)  
-- Developed services for lead capture, real-time scraping, and CRM integration.
-
-### 🔹 Software Developer @ Hubako Media (Sep 2020 – Sep 2021)  
-- Delivered multiple Shopify Plus stores and backend services for high-growth D2C brands.
+- 🛠️ **Expertise**: Golang, Python, Distributed Systems, CI/CD, Kubernetes, Cloud (GCP & AWS)
+- 🌐 **Cloud-Native Leader**: Designed systems handling **10M+ events/day** with 99.99% uptime
+- 📈 **Performance Obsessed**: Reduced API latencies by up to **40%** and onboarding time by **3x**
+- 🧩 **Team Player**: Led & mentored cross-functional teams, interns, and fellow engineers
+- ✍️ **Well-Documented**: Known for clean architecture, test-driven development, and deep design docs
 
 ---
 
-## 🚀 Highlight Projects
+### 🔧 Core Tech Stack
 
-### 🟣 **89 Transfers (Spain)**
-- Built entire backend from scratch with Golang, GCP, and Stripe integration.
-- Reduced booking time by 30% and improved API latency by 25%.
-
-### 🟣 **Ocuris (India)**
-- Architected and implemented 10+ microservices.
-- Improved LLM response times by 40% and reduced incidents by 60%.
+| Language  | Backend | Cloud / Infra  | DevOps / Tools |
+|-----------|---------|----------------|----------------|
+| ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square) | Echo, Gin, GORM, FastAPI | GCP (Cloud Run, Pub/Sub), AWS (S3, EKS) | GitHub Actions, Terraform |
+| Python    | REST/gRPC APIs, CQRS | Kubernetes, Cloud Functions | Datadog, Grafana, Sentry |
+| Node.js   | WebSockets, Redis     | AlloyDB, PostgreSQL, MongoDB | Prometheus, Slack, JIRA |
 
 ---
 
-## 🎓 Education
+### 📂 Recent Projects
 
-**B.Tech in Computer Science & Engineering**  
-Guru Gobind Singh Indraprastha University, New Delhi (2016 – 2020)
+#### 🔹 **Video Analytics Platform @ EPAM x P&G**  
+▶️ Built a scalable video search + analysis system with GCP, Golang & BigQuery  
+📊 Designed high-performance services handling terabytes of video metadata  
+🧑‍💻 Led devs, managed on-call & production health
+
+#### 🔹 **89Transfers - Spain (Mar 2024 - Sep 2024)**  
+🛫 Architected end-to-end backend (Golang, Pub/Sub, Stripe, Terraform)  
+📉 Reduced booking latency by **30%**, optimized cost using Cloud Run & Kubernetes
+
+#### 🔹 **Ocuris (2025)**  
+🧠 Built AI-driven, drag-and-drop workflow engine using Golang + LangChain  
+🚀 Achieved **1.2ms DB latency**, cut incident rate by **60%**, boosted LLM speed by **40%**
 
 ---
 
-## 📈 Let's Connect
+### 📌 Stats & Highlights
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohanchauhan02) *(Add this if you have it)*
-- 🛠️ [GitHub](https://github.com/rohanchauhan02)
-- 📬 singhrohankumar7@gmail.com
+- 🧪 **Built 40+ microservices** across fintech, insuretech, and e-commerce
+- 💸 Processed **millions of financial transactions daily** via event-driven services
+- 🛠️ Resolved **100+ production incidents** with custom alerting, SLO dashboards
+- 📚 Authored **30+ TDDs**, led technical reviews, and mentored 5+ engineers
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+### 🗣 Let's Connect!
+
+I'm always excited to collaborate on **open-source**, discuss **system design**, or just talk tech ☕. Feel free to drop me a line or connect on GitHub!
+
+> “Code is poetry. Well-architected systems are symphonies.”
