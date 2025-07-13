@@ -52,12 +52,13 @@ I’m a **Senior Backend Engineer** with 5+ years of experience building scalabl
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanchauhan02&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanchauhan02&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanchauhan02&theme=radical&hide_border=true" height="180" />
+  <img src="https://skillicons.dev/icons?i=go" height="40"/>  
+  <img src="https://img.shields.io/badge/Primary%20Language-Go-blue?style=for-the-badge&logo=go" />
 </p>
+
 
 ---
 
