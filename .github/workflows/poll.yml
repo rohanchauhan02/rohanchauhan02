@@ -2,7 +2,7 @@ name: Keep Render Service Alive
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,5 +12,6 @@ jobs:
     steps:
       - name: Ping Render
         run: |
+          echo "Pinging Render at $(date -u)"
           curl --fail --silent --show-error --max-time 30 \
-            https://rohanchauhan.me
+            "https://rohanchauhan.me"
